@@ -1,0 +1,34 @@
+.headerDiv {
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    background-color: #21bc90;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+.headerTitle {
+    display: inline-block;
+    vertical-align: middle;
+    line-height: normal;
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #33b793;
+    border-color: #2ea45d;
+}
+.headerTitle1 {
+    
+    vertical-align: middle;
+    line-height: normal;
+    font-size: 15px;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
